@@ -1,4 +1,5 @@
-# iot_based_smart_attendance
+# IOT Based Face Recognition Attendance System
+
 ## Goals and Objectives of the project
 There may be two types of implementation.
 - Student will be sitted to their seat on classroom & a HD camera can recognize all
