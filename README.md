@@ -21,12 +21,14 @@ with the backend model. It has certain features:
 
 ## Admission Interface
 Run the admission_gui.py
+
 <img src="git_images/gui1.png" width=600 height=380>
 <img src="git_images/gui2.png" width=600 height=380>
 <img src="git_images/gui3.png" width=600 height=380>
 
 ## Attendance Interface
 Run the attendance_gui.py
+
 <img src="git_images/gui4.png" width=600 height=380>
 <img src="git_images/gui5.png" width=600 height=380>
 <img src="git_images/gui6.png" width=600 height=380>
